@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   id="svg5469"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="presentacion.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="645.03473"
+     inkscape:cy="359.1226"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-page="false"
+     width="1280px"
+     inkscape:window-width="1391"
+     inkscape:window-height="876"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs5471">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="231.04254 : 253.79992 : 1"
+       inkscape:vp_y="0 : 1583.4303 : 0"
+       inkscape:vp_z="2598.4944 : 253.79992 : 1"
+       inkscape:persp3d-origin="1414.7684 : 63.788284 : 1"
+       id="perspective6163" />
+    <linearGradient
+       id="linearGradient6059"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6061" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6059"
+       id="linearGradient6063"
+       x1="78.880859"
+       y1="320.86212"
+       x2="1176.7559"
+       y2="320.86212"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter6109">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.1004666"
+         id="feGaussianBlur6111" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6059"
+       id="linearGradient6133"
+       gradientUnits="userSpaceOnUse"
+       x1="78.880859"
+       y1="320.86212"
+       x2="1176.7559"
+       y2="320.86212" />
+  </defs>
+  <metadata
+     id="metadata5474">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fondo">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6113"
+       style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.58447486999999998;stroke-dasharray:none;font-family:Sans;opacity:0.97"
+       transform="translate(46.669047,45.254834)"><flowRegion
+         id="flowRegion6115"><rect
+           id="rect6117"
+           width="1104.5009"
+           height="86.267006"
+           x="89.095451"
+           y="34.106422"
+           style="font-size:72px;text-align:start;text-anchor:start;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.58447486999999998;stroke-dasharray:none" /></flowRegion><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.58447486999999998;stroke-dasharray:none;font-family:KacstOffice;-inkscape-font-specification:KacstOffice Medium"
+         id="flowPara6135">De la IDEA al PROTOTIPO</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6139"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6141"><rect
+           id="rect6143"
+           width="1112.9861"
+           height="118.79394"
+           x="83.438599"
+           y="333.91971" /></flowRegion><flowPara
+         id="flowPara6145" /></flowRoot>    <flowRoot
+       transform="matrix(0.817662,0,0,0.817662,81.273794,402.53006)"
+       style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.58447487;stroke-dasharray:none;font-family:Sans"
+       id="flowRoot6155"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6157"><rect
+           style="font-size:72px;text-align:start;text-anchor:start;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.58447487;stroke-dasharray:none"
+           y="34.106422"
+           x="89.095451"
+           height="167.55736"
+           width="1192.7096"
+           id="rect6159" /></flowRegion><flowPara
+         id="flowPara6161"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.58447487;stroke-dasharray:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">CONSEJOS para desarrollo en</flowPara></flowRoot>    <g
+       sodipodi:type="inkscape:box3d"
+       style="opacity:0.44032922;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.58447487;stroke-dasharray:none;stroke-dashoffset:0"
+       id="g6165"
+       inkscape:perspectiveID="#perspective6163"
+       inkscape:corner0="0.56428035 : 0.48885918 : 0 : 1"
+       inkscape:corner7="0.4212039 : 0.40047981 : 0.071739228 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6177"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="11"
+         d="m 1058.3951,109.19775 79.2895,-34.213377 0,93.736037 -79.2895,26.01579 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6167"
+         style="fill:#353564;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="6"
+         d="m 987.76486,92.825319 0,89.461311 70.63024,12.44957 0,-85.53845 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6169"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="5"
+         d="m 987.76486,92.825319 76.18134,-37.58865 73.7384,19.747704 -79.2895,34.213377 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6175"
+         style="fill:#55d400;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="13"
+         d="m 987.76486,182.28663 76.18134,-28.58234 73.7384,15.01612 -79.2895,26.01579 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6173"
+         style="fill:#7fff2a;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="14"
+         d="m 1063.9462,55.236669 0,98.467621 73.7384,15.01612 0,-93.736037 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6171"
+         style="fill:#44aa00;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="3"
+         d="m 987.76486,92.825319 76.18134,-37.58865 0,98.467621 -76.18134,28.58234 z" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-332.36218)">
+    <rect
+       ry="0"
+       rx="0"
+       y="-55.1031"
+       x="542.01825"
+       height="165.32988"
+       width="199.66101"
+       id="rect2993"
+       style="fill:none;stroke:#008080;stroke-width:2.5195365;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.07814541, 5.03907264, 2.51953638, 5.03907264;stroke-dashoffset:0;display:inline"
+       transform="matrix(0.51830328,0.85519688,-0.87208653,0.4893517,0,0)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5484"
+       style="font-size:200px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:1.89999998000000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.47031961999999999;stroke-dasharray:none;font-family:Curier 10 Pitch;-inkscape-font-specification:Curier 10 Pitch"
+       transform="matrix(0.76891008,0,0,0.76891008,119.62665,652.58333)"><flowRegion
+         id="flowRegion5486"
+         style="stroke:url(#linearGradient6133)"><rect
+           id="rect5488"
+           width="1153.9983"
+           height="265.87216"
+           x="50.91169"
+           y="223.61104"
+           style="font-size:200px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:1.89999998000000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.47031961999999999;stroke-dasharray:none;font-family:Curier 10 Pitch;-inkscape-font-specification:Curier 10 Pitch" /></flowRegion><flowPara
+         id="flowPara5490"
+         style="font-size:180px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#03a705;fill-opacity:1;stroke:#ffffff;stroke-width:1.89999998000000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.47031961999999999;stroke-dasharray:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">HACKATÓN</flowPara></flowRoot>    <rect
+       ry="0"
+       rx="0"
+       y="-845.85529"
+       x="391.228"
+       height="880.89819"
+       width="733.7439"
+       id="rect2993-4"
+       style="fill:none;stroke:#008080;stroke-width:11.14893723;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:44.59574824, 22.29787376, 11.14893722, 22.29787376;stroke-dashoffset:0;display:inline"
+       transform="matrix(0.38532351,0.92278155,-0.99997415,-0.00718977,0,0)" />
+  </g>
+  <script
+     id="sozi-script"
+     ns1:version="11.10-20110832">var sozi=sozi||{};(function(){var a=sozi.events=sozi.events||{},b={};a.listen=function(d,e){var c=b[d];if(!c){c=b[d]=[]}c.push(e)};a.fire=function(g){var d=b[g],c,f,e=Array.prototype.slice.call(arguments,1);if(d){c=d.length;for(f=0;f&lt;c;f+=1){d[f].apply(null,e)}}}}());var sozi=sozi||{};(function(){var x=sozi.framelist=sozi.framelist||{},l=this,s=l.document,r,n,c,k=0,d=5,i,v,b,z,A,w,f=300,j=30,g=&quot;decelerate&quot;,a=&quot;http://www.w3.org/2000/svg&quot;;function h(B){return function(C){sozi.player.previewFrame(B);C.stopPropagation()}}function m(B){B.stopPropagation()}function q(C){var B=C.relatedTarget;while(B!==n&amp;&amp;B!==r){B=B.parentNode}if(B===r){x.hide();sozi.player.restart();C.stopPropagation()}}function u(C){var B=c.getCTM().f;if(B&lt;=-l.innerHeight/2){B+=l.innerHeight/2}else{if(B&lt;0){B=0}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+B+&quot;)&quot;);C.stopPropagation()}function e(C){var B=c.getCTM().f;if(B+k&gt;=l.innerHeight*3/2){B-=l.innerHeight/2}else{if(B+k&gt;l.innerHeight+2*d){B=l.innerHeight-k-4*d}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+B+&quot;)&quot;);C.stopPropagation()}function t(B){var D=sozi.animation.profiles[g](B),C=1-D;A=z*D+b*C;n.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+A+&quot;,0)&quot;)}function y(){}function p(){var H=s.createElementNS(a,&quot;rect&quot;),B=s.createElementNS(a,&quot;path&quot;),F=s.createElementNS(a,&quot;path&quot;),I=0,G,D=sozi.document.frames.length,C=sozi.location.getFrameIndex(),E,J;r=s.documentElement;n=s.createElementNS(a,&quot;g&quot;);n.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);r.appendChild(n);c=s.createElementNS(a,&quot;g&quot;);n.appendChild(c);H.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);H.setAttribute(&quot;x&quot;,d);H.setAttribute(&quot;y&quot;,d);H.setAttribute(&quot;rx&quot;,d);H.setAttribute(&quot;ry&quot;,d);H.addEventListener(&quot;click&quot;,m,false);H.addEventListener(&quot;mousedown&quot;,m,false);H.addEventListener(&quot;mouseout&quot;,q,false);c.appendChild(H);for(E=0;E&lt;D;E+=1){J=s.createElementNS(a,&quot;text&quot;);J.appendChild(s.createTextNode(sozi.document.frames[E].title));c.appendChild(J);if(E===C){J.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}G=J.getBBox().width;k+=J.getBBox().height;if(G&gt;I){I=G}J.setAttribute(&quot;x&quot;,2*d);J.setAttribute(&quot;y&quot;,k+d);J.addEventListener(&quot;click&quot;,h(E),false);J.addEventListener(&quot;mousedown&quot;,m,false)}B.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);B.setAttribute(&quot;d&quot;,&quot;M&quot;+(I+3*d)+&quot;,&quot;+(5*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,-&quot;+(3*d)+&quot; z&quot;);B.addEventListener(&quot;click&quot;,u,false);B.addEventListener(&quot;mousedown&quot;,m,false);n.appendChild(B);F.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);F.setAttribute(&quot;d&quot;,&quot;M&quot;+(I+3*d)+&quot;,&quot;+(7*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,&quot;+(3*d)+&quot; z&quot;);F.addEventListener(&quot;click&quot;,e,false);F.addEventListener(&quot;mousedown&quot;,m,false);n.appendChild(F);H.setAttribute(&quot;width&quot;,I+7*d);H.setAttribute(&quot;height&quot;,k+2*d);i=-I-9*d;v=0;A=z=i;n.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+i+&quot;,0)&quot;);w=new sozi.animation.Animator(j,t,y)}function o(B){var E=c.getElementsByClassName(&quot;sozi-toc-current&quot;),D=c.getElementsByTagName(&quot;text&quot;),C;for(C=0;C&lt;E.length;C+=1){E[C].removeAttribute(&quot;class&quot;)}D[B].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}x.show=function(){b=A;z=v;w.start(f)};x.hide=function(){b=A;z=i;w.start(f)};x.isVisible=function(){return z===v};sozi.events.listen(&quot;displayready&quot;,p);sozi.events.listen(&quot;cleanup&quot;,x.hide);sozi.events.listen(&quot;framechange&quot;,o)}());var sozi=sozi||{};(function(){var s=sozi.player=sozi.player||{},t=sozi.display=sozi.display||{},j=this,o=j.document,p=0,u=1,r=1.05,w=5,c=false,l=false,g=0,e=0;function a(A,z,B){s.stop();t.zoom(A&gt;0?r:1/r,z,B)}function v(x){s.stop();t.rotate(x&gt;0?w:-w)}function q(){if(sozi.framelist.isVisible()){sozi.framelist.hide();s.restart()}else{s.stop();sozi.framelist.show()}}function i(x){if(x.button===p){c=true;l=false;g=x.clientX;e=x.clientY}else{if(x.button===u){q()}}x.stopPropagation()}function m(x){if(c){s.stop();l=true;sozi.events.fire(&quot;cleanup&quot;);t.drag(x.clientX-g,x.clientY-e);g=x.clientX;e=x.clientY}x.stopPropagation()}function f(x){if(x.button===p){c=false}x.stopPropagation()}function h(x){if(!l&amp;&amp;x.button!==u){s.moveToNext()}x.stopPropagation()}function k(x){var y=0;if(!x){x=j.event}if(x.wheelDelta){y=x.wheelDelta;if(j.opera){y=-y}}else{if(x.detail){y=-x.detail}}if(y!==0){if(x.shiftKey){v(y)}else{a(y,x.clientX,x.clientY)}}x.stopPropagation();x.preventDefault()}function n(x){switch(x.charCode){case 43:a(1,j.innerWidth/2,j.innerHeight/2);break;case 45:a(-1,j.innerWidth/2,j.innerHeight/2);break;case 61:s.moveToCurrent();break;case 70:case 102:s.showAll();break;case 84:case 116:q();break;case 82:v(-1);break;case 114:v(1);break}x.stopPropagation()}function d(x){switch(x.keyCode){case 36:s.moveToFirst();break;case 35:s.moveToLast();break;case 38:s.jumpToPrevious();break;case 33:case 37:s.moveToPrevious();break;case 40:s.jumpToNext();break;case 34:case 39:case 13:case 32:s.moveToNext();break}x.stopPropagation()}function b(){var x=o.documentElement;x.addEventListener(&quot;click&quot;,h,false);x.addEventListener(&quot;mousedown&quot;,i,false);x.addEventListener(&quot;mouseup&quot;,f,false);x.addEventListener(&quot;mousemove&quot;,m,false);x.addEventListener(&quot;keypress&quot;,n,false);x.addEventListener(&quot;keydown&quot;,d,false);x.addEventListener(&quot;DOMMouseScroll&quot;,k,false);j.onmousewheel=k}j.addEventListener(&quot;load&quot;,b,false)}());var sozi=sozi||{};(function(){var a=sozi.animation=sozi.animation||{},b=this;a.Animator=function(d,c,e){this.timeStepMs=d||40;this.onStep=c;this.onDone=e;this.durationMs=0;this.data={};this.initialTime=0;this.started=false;this.timer=0};a.Animator.prototype.start=function(c,e){var d=this;this.durationMs=c;this.data=e;this.initialTime=Date.now();this.onStep(0,this.data);if(!this.started){this.started=true;this.timer=b.setInterval(function(){d.step()},this.timeStepMs)}};a.Animator.prototype.stop=function(){if(this.started){b.clearInterval(this.timer);this.started=false}};a.Animator.prototype.step=function(){var c=Date.now()-this.initialTime;if(c&gt;=this.durationMs){this.stop();this.onStep(1,this.data);this.onDone()}else{this.onStep(c/this.durationMs,this.data)}};a.profiles={linear:function(c){return c},accelerate:function(c){return Math.pow(c,3)},&quot;strong-accelerate&quot;:function(c){return Math.pow(c,5)},decelerate:function(c){return 1-Math.pow(1-c,3)},&quot;strong-decelerate&quot;:function(c){return 1-Math.pow(1-c,5)},&quot;accelerate-decelerate&quot;:function(c){var d=c&lt;=0.5?c:1-c,e=Math.pow(2*d,3)/2;return c&lt;=0.5?e:1-e},&quot;strong-accelerate-decelerate&quot;:function(c){var d=c&lt;=0.5?c:1-c,e=Math.pow(2*d,5)/2;return c&lt;=0.5?e:1-e},&quot;decelerate-accelerate&quot;:function(c){var d=c&lt;=0.5?c:1-c,e=(1-Math.pow(1-2*d,2))/2;return c&lt;=0.5?e:1-e},&quot;strong-decelerate-accelerate&quot;:function(c){var d=c&lt;=0.5?c:1-c,e=(1-Math.pow(1-2*d,3))/2;return c&lt;=0.5?e:1-e}}}());var sozi=sozi||{};(function(){var d=sozi.player=sozi.player||{},j=sozi.display=sozi.display||{},h=this,c,k,e=500,q=-10,l=&quot;linear&quot;,g=0,n=0,o=false,p=false;function f(t,w){var v=1-t,u=w.profile(t),s=1-u,r,x;for(r in w.initialState){if(w.initialState.hasOwnProperty(r)){if(typeof w.initialState[r]===&quot;number&quot;&amp;&amp;typeof w.finalState[r]===&quot;number&quot;){j.geometry[r]=w.finalState[r]*u+w.initialState[r]*s}}}if(w.zoomWidth&amp;&amp;w.zoomWidth.k!==0){x=t-w.zoomWidth.ts;j.geometry.width=w.zoomWidth.k*x*x+w.zoomWidth.ss}if(w.zoomHeight&amp;&amp;w.zoomHeight.k!==0){x=t-w.zoomHeight.ts;j.geometry.height=w.zoomHeight.k*x*x+w.zoomHeight.ss}j.clip=w.finalState.clip;j.update()}function i(){var r;if(sozi.document.frames[n].timeoutEnable){p=true;r=(n+1)%sozi.document.frames.length;k=h.setTimeout(function(){d.moveToFrame(r)},sozi.document.frames[n].timeoutMs)}}function m(){g=n;if(o){i()}}d.startFromIndex=function(r){o=true;p=false;g=r;n=r;j.showFrame(sozi.document.frames[r]);i()};d.restart=function(){d.startFromIndex(n)};d.stop=function(){c.stop();if(p){h.clearTimeout(k);p=false}o=false;g=n};function b(r,B,z){var C={ss:((r&lt;0)?Math.max(B,z):Math.min(B,z))*(100-r)/100,ts:0.5,k:0},x,w,t,s,A,y;if(r!==0){x=B-z;w=B-C.ss;t=z-C.ss;if(x!==0){s=Math.sqrt(w*t);A=(w-s)/x;y=(w+s)/x;C.ts=(A&gt;0&amp;&amp;A&lt;=1)?A:y}C.k=w/C.ts/C.ts}return C}d.jumpToFrame=function(r){d.stop();sozi.events.fire(&quot;cleanup&quot;);g=r;n=r;j.showFrame(sozi.document.frames[r]);sozi.events.fire(&quot;framechange&quot;,r)};d.previewFrame=function(s){var u=sozi.document.frames[s].geometry,r,t;if(q!==0){r=b(q,j.geometry.width,u.width);t=b(q,j.geometry.height,u.height)}n=s;c.start(e,{initialState:j.getCurrentGeometry(),finalState:u,profile:sozi.animation.profiles[l],zoomWidth:r,zoomHeight:t});sozi.events.fire(&quot;framechange&quot;,s)};d.moveToFrame=function(t){var s=e,w=q,u=sozi.animation.profiles[l],r,v;if(p){h.clearTimeout(k);p=false}if(t===(n+1)%sozi.document.frames.length){s=sozi.document.frames[t].transitionDurationMs;w=sozi.document.frames[t].transitionZoomPercent;u=sozi.document.frames[t].transitionProfile}sozi.events.fire(&quot;cleanup&quot;);if(w!==0){r=b(w,j.geometry.width,sozi.document.frames[t].geometry.width);v=b(w,j.geometry.height,sozi.document.frames[t].geometry.height)}o=true;n=t;c.start(s,{initialState:j.getCurrentGeometry(),finalState:sozi.document.frames[n].geometry,profile:u,zoomWidth:r,zoomHeight:v});sozi.events.fire(&quot;framechange&quot;,t)};d.moveToFirst=function(){d.moveToFrame(0)};d.jumpToPrevious=function(){var r=n;if(!c.started||g&lt;=n){r-=1}if(r&gt;=0){d.jumpToFrame(r)}};d.moveToPrevious=function(){var r=n,s;for(r-=1;r&gt;=0;r-=1){s=sozi.document.frames[r];if(!s.timeoutEnable||s.timeoutMs!==0){d.moveToFrame(r);break}}};d.jumpToNext=function(){var r=n;if(!c.started||g&gt;=n){r+=1}if(r&lt;sozi.document.frames.length){d.jumpToFrame(r)}};d.moveToNext=function(){if(n&lt;sozi.document.frames.length-1||sozi.document.frames[n].timeoutEnable){d.moveToFrame((n+1)%sozi.document.frames.length)}};d.moveToLast=function(){d.moveToFrame(sozi.document.frames.length-1)};d.moveToCurrent=function(){d.moveToFrame(n)};d.showAll=function(){d.stop();sozi.events.fire(&quot;cleanup&quot;);c.start(e,{initialState:j.getCurrentGeometry(),finalState:j.getDocumentGeometry(),profile:sozi.animation.profiles[l]})};function a(){d.startFromIndex(sozi.location.getFrameIndex())}c=new sozi.animation.Animator(40,f,m);sozi.events.listen(&quot;displayready&quot;,a)}());var sozi=sozi||{};(function(){var d=sozi.display=sozi.display||{},h=this,i=h.document,j,c,k,a,g=&quot;http://www.w3.org/2000/svg&quot;;d.geometry={cx:0,cy:0,width:1,height:1,rotate:0};d.clip=true;function f(){var o,l=i.createElementNS(g,&quot;g&quot;),m=i.createElementNS(g,&quot;clipPath&quot;);j=i.documentElement;j.removeAttribute(&quot;viewBox&quot;);k=j.getBBox();a=i.createElementNS(g,&quot;g&quot;);while(true){o=j.firstChild;if(!o){break}j.removeChild(o);a.appendChild(o)}c=i.createElementNS(g,&quot;rect&quot;);c.setAttribute(&quot;id&quot;,&quot;sozi-clip-rect&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-clip-path&quot;);m.appendChild(c);j.appendChild(m);l.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path)&quot;);l.appendChild(a);j.appendChild(l);j.setAttribute(&quot;width&quot;,h.innerWidth);j.setAttribute(&quot;height&quot;,h.innerHeight);sozi.events.fire(&quot;displayready&quot;)}function b(){j.setAttribute(&quot;width&quot;,h.innerWidth);j.setAttribute(&quot;height&quot;,h.innerHeight);d.update()}function e(){var l={};l.scale=Math.min(h.innerWidth/d.geometry.width,h.innerHeight/d.geometry.height);l.width=d.geometry.width*l.scale;l.height=d.geometry.height*l.scale;l.x=(h.innerWidth-l.width)/2;l.y=(h.innerHeight-l.height)/2;return l}d.getElementGeometry=function(l){var s,p,t,n,q,o,r=l.getCTM(),m=Math.sqrt(r.a*r.a+r.b*r.b);if(l.nodeName===&quot;rect&quot;){s=l.x.baseVal.value;p=l.y.baseVal.value;t=l.width.baseVal.value;n=l.height.baseVal.value}else{q=l.getBBox();s=q.x;p=q.y;t=q.width;n=q.height}o=i.documentElement.createSVGPoint();o.x=s+t/2;o.y=p+n/2;o=o.matrixTransform(r);return{cx:o.x,cy:o.y,width:t*m,height:n*m,rotate:Math.atan2(r.b,r.a)*180/Math.PI}};d.getDocumentGeometry=function(){return{cx:k.x+k.width/2,cy:k.y+k.height/2,width:k.width,height:k.height,rotate:0,clip:false}};d.getCurrentGeometry=function(){return{cx:d.geometry.cx,cy:d.geometry.cy,width:d.geometry.width,height:d.geometry.height,rotate:d.geometry.rotate,clip:d.clip}};d.update=function(){var l=e(),n=-d.geometry.cx+d.geometry.width/2+l.x/l.scale,m=-d.geometry.cy+d.geometry.height/2+l.y/l.scale;a.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+l.scale+&quot;)translate(&quot;+n+&quot;,&quot;+m+&quot;)rotate(&quot;+(-d.geometry.rotate)+&quot;,&quot;+d.geometry.cx+&quot;,&quot;+d.geometry.cy+&quot;)&quot;);c.setAttribute(&quot;x&quot;,d.clip?l.x:0);c.setAttribute(&quot;y&quot;,d.clip?l.y:0);c.setAttribute(&quot;width&quot;,d.clip?l.width:h.innerWidth);c.setAttribute(&quot;height&quot;,d.clip?l.height:h.innerHeight)};d.showFrame=function(m){var l;for(l in m.geometry){if(m.geometry.hasOwnProperty(l)){d.geometry[l]=m.geometry[l]}}d.update()};d.drag=function(m,l){var n=e(),o=d.geometry.rotate*Math.PI/180;d.geometry.cx-=(m*Math.cos(o)-l*Math.sin(o))/n.scale;d.geometry.cy-=(m*Math.sin(o)+l*Math.cos(o))/n.scale;d.clip=false;d.update()};d.zoom=function(o,m,p){var n=(1-o)*(m-h.innerWidth/2),l=(1-o)*(p-h.innerHeight/2);d.geometry.width/=o;d.geometry.height/=o;d.drag(n,l)};d.rotate=function(l){d.geometry.rotate+=l;d.geometry.rotate%=360;d.update()};sozi.events.listen(&quot;documentready&quot;,f);h.addEventListener(&quot;resize&quot;,b,false)}());var sozi=sozi||{};(function(){var c=sozi.document=sozi.document||{},g=this,a=g.document,f=&quot;http://sozi.baierouge.fr&quot;,d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};c.frames=[];function h(j,i){var k=j.getAttributeNS(f,i);return k===&quot;&quot;?d[i]:k}function b(){var j=a.getElementsByTagNameNS(f,&quot;frame&quot;),k=j.length,m,l,n;for(l=0;l&lt;k;l+=1){m=a.getElementById(j[l].getAttributeNS(f,&quot;refid&quot;));if(m){n={geometry:sozi.display.getElementGeometry(m),title:h(j[l],&quot;title&quot;),sequence:parseInt(h(j[l],&quot;sequence&quot;),10),hide:h(j[l],&quot;hide&quot;)===&quot;true&quot;,timeoutEnable:h(j[l],&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(h(j[l],&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(h(j[l],&quot;transition-duration-ms&quot;),10),transitionZoomPercent:parseInt(h(j[l],&quot;transition-zoom-percent&quot;),10),transitionProfile:sozi.animation.profiles[h(j[l],&quot;transition-profile&quot;)||&quot;linear&quot;]};if(n.hide){m.setAttribute(&quot;visibility&quot;,&quot;hidden&quot;)}n.geometry.clip=h(j[l],&quot;clip&quot;)===&quot;true&quot;;c.frames.push(n)}}c.frames.sort(function(o,i){return o.sequence-i.sequence})}function e(){b();sozi.events.fire(&quot;documentready&quot;)}g.addEventListener(&quot;load&quot;,e,false)}());var sozi=sozi||{};(function(){var a=sozi.location=sozi.location||{},e=this,c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)}());</script>
+  <style
+     id="sozi-style"
+     ns1:version="11.10-20110832">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}</style>
+  <ns1:frame
+     ns1:refid="rect2993"
+     ns1:sequence="1"
+     ns1:title="primero"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000"
+     ns1:transition-duration-ms="1000"
+     ns1:transition-zoom-percent="0"
+     ns1:transition-profile="linear" />
+  <ns1:frame
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="0"
+     ns1:transition-duration-ms="1000"
+     ns1:timeout-ms="5000"
+     ns1:timeout-enable="false"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:title="segundo"
+     ns1:sequence="2"
+     ns1:refid="rect2993-4" />
+</svg>

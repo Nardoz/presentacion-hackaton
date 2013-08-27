@@ -1,0 +1,206 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quicksand Regular'), local('Quicksand-Regular'), url(../../lib/font/sKd0EMYPAh5PYCRKSryvWz8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Quicksand Bold'), local('Quicksand-Bold'), url(../../lib/font/32nyIRHyCu6iqEka_hbKsnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../../lib/font/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../../lib/font/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(../../lib/font/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(../../lib/font/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff) format('woff');
+}
+/**
+ * Sky theme for reveal.js.
+ *
+ * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+.reveal a:not(.image) {
+  line-height: 1.3em; }
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+body {
+  background: #793f62;
+  background: -moz-radial-gradient(center,  circle cover,  #793f62 0%,  #512b42 100%);
+  background: -webkit-gradient(radial,  center center,  0px,  center center,  100%,  color-stop(0%,  #793f62),  color-stop(100%,  #512b42));
+  background: -webkit-radial-gradient(center,  circle cover,  #793f62 0%,  #512b42 100%);
+  background: -o-radial-gradient(center,  circle cover,  #793f62 0%,  #512b42 100%);
+  background: radial-gradient(center,  circle cover,  #793f62 0%,  #512b42 100%);
+  background-color: #512b42;
+}
+
+b{
+  font-weight: bold !important;
+}
+
+.reveal {
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 200;
+  letter-spacing: -0.02em;
+  color: #eee; }
+
+::selection {
+  color: white;
+  background: #134674;
+  text-shadow: none; }
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #eee;
+  font-family: "Quicksand",sans-serif;
+  font-weight: normal;
+  line-height: 0.9em;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+  text-shadow: none;
+  margin: 0 0 20px 0;
+}
+
+.reveal font {
+  line-height: 1;
+}
+
+section, 
+section p, 
+section div, 
+section a.roll, 
+section, 
+section p, 
+section div, 
+section a.roll, 
+section, 
+section p, 
+section div, 
+section a.roll, 
+section, 
+section p, 
+section div, 
+section a.roll{
+  line-height: 1.3em !important;
+}
+
+.reveal h1 {
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+  font-size: 115.362px;
+}
+
+.reveal h2 {
+  font-size: 64.566px;
+}
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a:not(.image) {
+  color: #ffc200;
+  text-decoration: none;
+  -webkit-transition: color .15s ease;
+  -moz-transition: color .15s ease;
+  -ms-transition: color .15s ease;
+  -o-transition: color .15s ease;
+  transition: color .15s ease; }
+
+.reveal a:not(.image):hover {
+  color: #ffda66;
+  text-shadow: none;
+  border: none; }
+
+.reveal .roll span:after {
+  color: #fff;
+  background: #264c66; }
+
+/*********************************************
+ * IMAGES
+ *********************************************/
+.reveal section img {
+  margin: 15px;
+  border: 4px solid transparent;
+  -webkit-transition: all .2s linear;
+  -moz-transition: all .2s linear;
+  -ms-transition: all .2s linear;
+  -o-transition: all .2s linear;
+  transition: all .2s linear; }
+
+.reveal a:hover img {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: #ffc200;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); 
+}
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls div.navigate-left,
+.reveal .controls div.navigate-left.enabled {
+  border-right-color: #ffc200; }
+
+.reveal .controls div.navigate-right,
+.reveal .controls div.navigate-right.enabled {
+  border-left-color: #ffc200; }
+
+.reveal .controls div.navigate-up,
+.reveal .controls div.navigate-up.enabled {
+  border-bottom-color: #ffc200; }
+
+.reveal .controls div.navigate-down,
+.reveal .controls div.navigate-down.enabled {
+  border-top-color: #ffc200; }
+
+.reveal .controls div.navigate-left.enabled:hover {
+  border-right-color: #ffda66; }
+
+.reveal .controls div.navigate-right.enabled:hover {
+  border-left-color: #ffda66; }
+
+.reveal .controls div.navigate-up.enabled:hover {
+  border-bottom-color: #ffda66; }
+
+.reveal .controls div.navigate-down.enabled:hover {
+  border-top-color: #ffda66; }
+
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2); }
+
+.reveal .progress span {
+  background: #ffc200;
+  -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -ms-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -o-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
