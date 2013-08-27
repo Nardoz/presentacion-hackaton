@@ -1,1 +1,1 @@
-Ver: [https://github.com/Nardoz/presentacion-hackaton/tree/gh-pages](gh-pages branch)
+Ver: [gh-pages branch](https://github.com/Nardoz/presentacion-hackaton/tree/gh-pages)
