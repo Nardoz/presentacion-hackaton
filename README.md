@@ -1,4 +1,1 @@
-presentacion-hackaton
-=====================
-
-De la idea al prototipo: Presentación creada para la Media Party 2013
+Ver: [https://github.com/Nardoz/presentacion-hackaton/tree/gh-pages](gh-pages branch)
